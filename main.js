@@ -21,4 +21,6 @@ document.querySelector('#app').innerHTML = `
   </div>
 `
 
+document.querySelector('#app').innerHTML='Stiamo effettuando una manutenzione applicativa sulle sezioni di DAISY, il sito tornerà operativo nei prossimi giorni'
+
 setupCounter(document.querySelector('#counter'))
